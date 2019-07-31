@@ -4,7 +4,7 @@
 
 High resulution JPG, PNG and a source file (AI) are available in the `/src` directory.
 
-# Credits
+# Thanks to
 
 - <a href='https://twitter.com/marionpdaly/status/1153895605409705984'>Marion Daly</a> for the idea 💡
 
